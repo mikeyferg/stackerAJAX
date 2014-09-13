@@ -44,3 +44,11 @@
 	background-color: #F78181;
 	padding: 1em;
 }
+
+.user .test {
+	border: 1px black solid;
+}
+
+.rank {
+	font-weight: bold;
+}
