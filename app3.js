@@ -10,10 +10,6 @@ $(document).ready( function() {
 });
 
 
-
-
-
-
 var getTopUsers = function(answerers) {
 	
 	var result = $.ajax({
